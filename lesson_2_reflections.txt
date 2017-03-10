@@ -7,6 +7,7 @@ The staging area is a possibility to collect the files you want to bundle for a 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Stage everything needed for logical change and commit together.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
